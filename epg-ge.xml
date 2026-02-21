@@ -12,32 +12,32 @@
   </programme>
 
   <!-- 1TV -->
-  <channel id="1tv.ge">
-    <display-name>GE - 1TV</display-name>
+  <channel id="1tv">
+    <display-name>GE - 1tv hd</display-name>
   </channel>
 
-  <programme channel="1tv.ge" start="20260221080000 +0400" stop="20260221090000 +0400">
+  <programme channel="1tv" start="20260221080000 +0400" stop="20260221090000 +0400">
     <title>დილა მშვიდობისა საქართველო</title>
   </programme>
 
-  <programme channel="1tv.ge" start="20260221090000 +0400" stop="20260221100000 +0400">
+  <programme channel="1tv" start="20260221090000 +0400" stop="20260221100000 +0400">
     <title>ახალი დღე</title>
   </programme>
 
-  <programme channel="1tv.ge" start="20260221180000 +0400" stop="20260221190000 +0400">
+  <programme channel="1tv" start="20260221180000 +0400" stop="20260221190000 +0400">
     <title>მოამბე</title>
   </programme>
 
   <!-- Rustavi 2 -->
-  <channel id="rustavi2.ge">
+  <channel id="Rustavi2">
     <display-name>GE - Rustavi 2</display-name>
   </channel>
 
-  <programme channel="rustavi2.ge" start="20260221100000 +0400" stop="20260221110000 +0400">
+  <programme channel="Rustavi2" start="20260221100000 +0400" stop="20260221110000 +0400">
     <title>შუადღე</title>
   </programme>
 
-  <programme channel="rustavi2.ge" start="20260221190000 +0400" stop="20260221200000 +0400">
+  <programme channel="Rustavi2" start="20260221190000 +0400" stop="20260221200000 +0400">
     <title>კურიერი</title>
   </programme>
 
