@@ -1,57 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
 
-  <!-- Setanta Sports -->
-  <channel id="SetantaSports.ge">
-    <display-name>GE - Setanta Sports</display-name>
-  </channel>
-
-  <programme channel="SetantaSports.ge" start="20260221140000 +0400" stop="20260221160000 +0400">
-    <title>Premier League</title>
-    <desc>Live Football</desc>
-  </programme>
-
-  <!-- 1TV -->
   <channel id="1tv">
-    <display-name>GE - 1tv hd</display-name>
+    <display-name>1TV HD</display-name>
   </channel>
 
-  <programme channel="1tv" start="20260221080000 +0400" stop="20260221090000 +0400">
-    <title>დილა მშვიდობისა საქართველო</title>
-  </programme>
-
-  <programme channel="1tv" start="20260221090000 +0400" stop="20260221100000 +0400">
-    <title>ახალი დღე</title>
-  </programme>
-
-  <programme channel="1tv" start="20260221180000 +0400" stop="20260221190000 +0400">
-    <title>მოამბე</title>
-  </programme>
-
-  <!-- Rustavi 2 -->
-  <channel id="Rustavi2">
-    <display-name>GE - Rustavi 2</display-name>
-  </channel>
-
-  <programme channel="Rustavi2" start="20260221100000 +0400" stop="20260221110000 +0400">
-    <title>შუადღე</title>
-  </programme>
-
-  <programme channel="Rustavi2" start="20260221190000 +0400" stop="20260221200000 +0400">
-    <title>კურიერი</title>
-  </programme>
-
-  <!-- Mtavari Arkhi -->
-  <channel id="mtavari.ge">
-    <display-name>GE - Mtavari Arkhi</display-name>
-  </channel>
-
-  <programme channel="mtavari.ge" start="20260221170000 +0400" stop="20260221180000 +0400">
-    <title>დღის მთავარი</title>
-  </programme>
-
-  <programme channel="mtavari.ge" start="20260221200000 +0400" stop="20260221210000 +0400">
-    <title>მთავარი ამბები</title>
+  <programme start="20260221000000 +0400"
+             stop="20260221235900 +0400"
+             channel="1tv">
+    <title>24 საათიანი ტესტი</title>
   </programme>
 
 </tv>
