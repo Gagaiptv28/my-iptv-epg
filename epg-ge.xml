@@ -4,12 +4,12 @@
     <display-name>GE - Setanta Sports</display-name>
     <icon src="https://iptv-epg.org/logos/Georgia/SetantaSports.ge.png"></icon>
   </channel>
-  <channel id="მთავარიარხი.ge">
-    <display-name>GE - მთავარი არხი</display-name>
+  <channel id="mtavari.ge">
+    <display-name>GE - mtavari</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="კომედიარხი.ge">
-    <display-name>GE - კომედი არხი</display-name>
+  <channel id="komediakhi.ge">
+    <display-name>GE - komediarkhi</display-name>
     <icon src=""></icon>
   </channel>
   <channel id="SetantaSports+.ge">
@@ -21,39 +21,39 @@
     <icon src=""></icon>
   </channel>
   <channel id="TV25.ge">
-    <display-name>GE - TV 25</display-name>
+    <display-name>GE - TV25</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="ფორმულა.ge">
-    <display-name>GE - ფორმულა</display-name>
+  <channel id="formula.ge">
+    <display-name>GE - formula</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="რუსთავი2.ge">
-    <display-name>GE - რუსთავი 2</display-name>
+  <channel id="rustavi2.ge">
+    <display-name>GE - rustavi2</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="იმედი.ge">
-    <display-name>GE - იმედი</display-name>
+  <channel id="imedi.ge">
+    <display-name>GE - imedi</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="აჭარა.ge">
-    <display-name>GE - აჭარა</display-name>
+  <channel id="ajara.ge">
+    <display-name>GE - ajara</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="აფხაზეთისხმა.ge">
-    <display-name>GE - აფხაზეთის ხმა</display-name>
+  <channel id="afghazetisghkma.ge">
+    <display-name>GE - afghazetisghkma</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="პოსTV.ge">
-    <display-name>GE - პოსTV</display-name>
+  <channel id="postv.ge">
+    <display-name>GE - postv</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="ენკი-ბენკი.ge">
-    <display-name>GE - ენკი-ბენკი</display-name>
+  <channel id="enkibenki.ge">
+    <display-name>GE - enkibenki</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="PalitraNews.ge">
-    <display-name>GE - Palitra News</display-name>
+  <channel id="palitranews.ge">
+    <display-name>GE - palitranews</display-name>
     <icon src="https://iptv-epg.org/logos/Georgia/PalitraNews.ge.png"></icon>
   </channel>
   <channel id="adjarasport2.ge">
