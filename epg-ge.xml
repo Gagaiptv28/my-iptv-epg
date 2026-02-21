@@ -6,10 +6,9 @@
   </channel>
 
   <programme channel="1tv"
-             start="YYYYMMDDHHMMSS +0400"
-             stop="YYYYMMDDHHMMSS +0400">
-    <title>24 საათიანი ტესტი</title>
-    <desc>ტესტ პროგრამა</desc>
-  </programme>
-
+start="20260221100000 +0400"
+stop="20260221110000 +0400">
+<title>Test Program</title>
+</programme>
+  
 </tv>
