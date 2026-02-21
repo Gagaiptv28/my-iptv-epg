@@ -8,7 +8,7 @@
     <display-name>GE - mtavari</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="komediakhi.ge">
+  <channel id="komediakhi">
     <display-name>GE - komediarkhi</display-name>
     <icon src=""></icon>
   </channel>
@@ -32,60 +32,60 @@
     <display-name>GE - rustavi2</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="Imedi.ge">
-    <display-name>GE - Imedi</display-name>
+  <channel id="imedi">
+    <display-name>GE - imedi hd</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="ajara.ge">
-    <display-name>GE - ajara</display-name>
+  <channel id="ajara">
+    <display-name>GE - ajara hd</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="afghazetisghkma.ge">
-    <display-name>GE - afghazetisghkma</display-name>
+  <channel id="afxaz">
+    <display-name>GE - afxaz hd</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="postv.ge">
-    <display-name>GE - postv</display-name>
+  <channel id="postv">
+    <display-name>GE - postv hd</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="enkibenki.ge">
-    <display-name>GE - enkibenki</display-name>
+  <channel id="enkibenki">
+    <display-name>GE - enkibenki hd</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="palitranews.ge">
-    <display-name>GE - palitranews</display-name>
+  <channel id="palitranews">
+    <display-name>GE - palitranews hd</display-name>
     <icon src="https://iptv-epg.org/logos/Georgia/PalitraNews.ge.png"></icon>
   </channel>
   <channel id="adjarasport2.ge">
     <display-name>GE - adjarasport 2</display-name>
     <icon src="https://iptv-epg.org/logos/Georgia/adjarasport2.ge.png"></icon>
   </channel>
-  <channel id="სამეფოარხი.ge">
-    <display-name>GE - სამეფო არხი</display-name>
+  <channel id="samefoarkhi">
+    <display-name>GE - samefoarkhi hd</display-name>
     <icon src=""></icon>
   </channel>
   <channel id="adjarasport1.ge">
     <display-name>GE - adjarasport 1</display-name>
     <icon src="https://iptv-epg.org/logos/Georgia/adjarasport1.ge.png"></icon>
   </channel>
-  <channel id="კავკასია.ge">
-    <display-name>GE - კავკასია</display-name>
+  <channel id="kavkasia">
+    <display-name>GE - kavkasia</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="მაესტრო.ge">
-    <display-name>GE - მაესტრო</display-name>
+  <channel id="maestro">
+    <display-name>GE - maestro</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="GDS.ge">
-    <display-name>GE - GDS</display-name>
+  <channel id="gds">
+    <display-name>GE - gds</display-name>
     <icon src="https://iptv-epg.org/logos/Georgia/GDS.ge.png"></icon>
   </channel>
-  <channel id="რიონი.ge">
-    <display-name>GE - რიონი</display-name>
+  <channel id="rioni">
+    <display-name>GE - rioni</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="TVპირველი.ge">
-    <display-name>GE - TV პირველი</display-name>
+  <channel id="tvpirveli">
+    <display-name>GE - tvpirveli</display-name>
     <icon src=""></icon>
   </channel>
   <channel id="მაგთიკინო.ge">
@@ -96,8 +96,8 @@
     <display-name>GE - ჩვენი მაგთი</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="პირველიარხი.ge">
-    <display-name>GE - პირველი არხი</display-name>
+  <channel id="1tv">
+    <display-name>GE - 1tvhd</display-name>
     <icon src=""></icon>
   </channel>
   <channel id="ობიექტივი.ge">
