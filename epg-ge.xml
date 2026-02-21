@@ -5,10 +5,11 @@
     <display-name>1TV HD</display-name>
   </channel>
 
-  <programme start="20260221000000 +0400"
-             stop="20260221235900 +0400"
-             channel="1tv">
+  <programme channel="1tv"
+             start="20260221000000 +0400"
+             stop="20260221235959 +0400">
     <title>24 საათიანი ტესტი</title>
+    <desc>ტესტ პროგრამა</desc>
   </programme>
 
 </tv>
