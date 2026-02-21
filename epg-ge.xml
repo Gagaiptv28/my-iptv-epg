@@ -28,12 +28,12 @@
     <display-name>GE - formula</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="rustavi2.ge">
+  <channel id="Rustavi2.ge">
     <display-name>GE - rustavi2</display-name>
     <icon src=""></icon>
   </channel>
-  <channel id="imedi.ge">
-    <display-name>GE - imedi</display-name>
+  <channel id="Imedi.ge">
+    <display-name>GE - Imedi</display-name>
     <icon src=""></icon>
   </channel>
   <channel id="ajara.ge">
