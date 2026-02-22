@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
 
-  <channel id="FirstChannel.ge">
-    <display-name>FIRSTCHANNEL</display-name>
+  <channel id="1tv.ge">
+    <display-name>1tv</display-name>
   </channel>
 
-  <programme channel="FirstChannel.ge"
+  <programme channel="1tv.ge"
 start="20260201000000 +0400"
 stop="20261231235959 +0400">
 <title>24 საათიანი ტესტი</title>
